@@ -1,0 +1,5 @@
+c:\users\patrick\documents\visual studio 2013\Projects\FlightSeeker\FlightSeeker.Core\bin\Debug\FlightSeeker.Core.dll
+c:\users\patrick\documents\visual studio 2013\Projects\FlightSeeker\FlightSeeker.Core\bin\Debug\FlightSeeker.Core.pdb
+c:\users\patrick\documents\visual studio 2013\Projects\FlightSeeker\FlightSeeker.Core\obj\Debug\FlightSeeker.Core.csprojResolveAssemblyReference.cache
+c:\users\patrick\documents\visual studio 2013\Projects\FlightSeeker\FlightSeeker.Core\obj\Debug\FlightSeeker.Core.dll
+c:\users\patrick\documents\visual studio 2013\Projects\FlightSeeker\FlightSeeker.Core\obj\Debug\FlightSeeker.Core.pdb
